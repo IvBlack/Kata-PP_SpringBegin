@@ -1,1 +1,0 @@
-# Kata-PP_SpringBegin
